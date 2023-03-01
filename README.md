@@ -17,5 +17,6 @@ Shanker, you cannot legally drink in PA.
 
 How To Contribute
 
+If you would like to contribute to this project, you may reach out through email to sem247@pitt.edu and give any advice/feedback on how to make the program better. A feature that we would like our program to have is more security to prevent potential hacking/manipulation of the code. 
 
 Seyed Parsa Mirlohi and Shanker Pillai
